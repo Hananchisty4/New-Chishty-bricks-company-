@@ -1,0 +1,7 @@
+echo "# New-Chishty-bricks-company-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Hananchisty4/New-Chishty-bricks-company-.git
+git push -u origin main
